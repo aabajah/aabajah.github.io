@@ -1,0 +1,28 @@
+
+
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>
+</span></li>
+
+
+<p></p>
+
+
+          <li class="job-listing d-block d-sm-flex pb-3 pb-sm-0 align-items-center">
+            <a href="job-single-soca.html"></a>
+            <div class="job-listing-logo">
+              <img src="images/security1.png" alt="Free Website Template by Free-Template.co" class="img-fluid">
+            </div>
+
+            <div class="job-listing-about d-sm-flex custom-width w-100 justify-content-between mx-4">
+              <div class="job-listing-position custom-width w-50 mb-3 mb-sm-0">
+                <h2>Security Operations Centre Analyst</h2>
+                <strong>Security</strong>
+              </div>
+              <div class="job-listing-location mb-3 mb-sm-0 custom-width w-25">
+                <span class="icon-room"></span> Prague
+              </div>
+              <div class="job-listing-meta">
+                <span class="badge badge-success">Full Time</span>
+              </div>
+            </div>
+          </li>

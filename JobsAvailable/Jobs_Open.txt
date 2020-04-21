@@ -1,0 +1,541 @@
+14.
+
+Security Operations Centre Analyst (f/m/d) 
+
+ 
+
+Development | Level 1-3 | Full-time | Permanent | Prague 
+
+ 
+
+Division
+Deutsche Börse Services sro, CIO / COO (Div), Group Security / CISO (Dpt), CERT (U) 
+
+ 
+
+Field of activity
+
+With more than 5,000 employees, the company has its headquarters in the financial center of Frankfurt/Germany, as well as a strong global presence in Luxembourg, Prague, Cork, Chicago, and other locations.
+
+Information Security strives to ensure that information and all supporting processing facilities of Deutsche Börse Group are appropriately secured. This way it protects the Group from a significant loss and ensures compliance with legislative, regulatory, and contractual requirements. 
+
+The CERT/SOC is the central organization for all cyber situational analysis (pro-active, detective and forensic). The SOC focuses on the IS domain of Information Security Incident Detection and Log Monitoring.
+
+Hence, we are looking for a self-motivated talented Analyst for our SOC team in Prague.
+
+ 
+
+Tasks/responsibilities
+
+Manage information security alerts by leading and coordinating investigations with stakeholders
+Early notification to management of incidents followed by the creation of investigation reports
+Recommend security measures to address cyber threats identified, e.g. proposing SIEM use-cases
+Communicate zero-day threats and vulnerabilities to the relevant IT teams for prompt action e.g. patching
+Help to improve the SOC resiliency and processes maturity by supporting regular testing and audit review
+Develop and maintain SOC documentation
+Available during the working hours (Mo-Fr) + on call duty
+ 
+
+Qualifications/required skills
+
+University or comparable degree in Computer Science, Information Security, Engineering or related discipline
+IT experience with 1+ years in an information security role
+Previous experience in a SOC or CERT team or operation of a SIEM or ticket tool is considered a strong benefit
+Broad knowledge of IT and Information Security technologies, operating systems, databases and applications
+Solid understanding of threats, vulnerabilities, and security controls
+Deliverable-oriented, with strong problem-solving skills 
+Team player willing to cooperate with multiple colleagues across office locations
+Good report-writing skills to present the findings of investigations
+ 
+
+13
+
+Senior Windows Desktop Engineer (f/m/d) 
+
+ 
+
+Operations | Level 1-3 | Full-time | Permanent | Prague 
+
+ 
+
+Division
+Deutsche Börse Services sro, CIO / COO (Div), Corporate IT (Dpt), Operations (S) 
+
+ 
+
+Field of activity
+
+As a Senior Windows Desktop Engineer you will provide support to IT Windows based applications and devices within the DBAG environment and work within a highly motivated team across three locations
+
+ 
+
+Tasks/responsibilities
+
+You will support the Microsoft based Digital Workplace clients
+You will create and maintain Windows 10 and Windows 7 images using SCCM or DSM
+You will create SCCM packages for software deployment and update rollout for approx. 6000 devices
+You will test new devices, phones and printers for group wide DBAG deployment
+You will implement, integrate and support third party software, i.e. based on Microsoft technologies, as well as internally developed applications
+You will analyse problems, resolve issues and will perform monitoring, tuning and optimisation of performance of software for the global operation of the Digital Workplace
+You will work on new projects and document implemented solutions to further modernize the Digital Workplace
+Escalate issues to management based on evaluated and discussed options
+Installation, Maintaining and Supporting of Microsoft Windows Clients and applications
+ 
+Qualifications/required skills
+
+Successfully completed a degree in IT or training in the same field with relevant work experience
+Experience in administration of Microsoft Windows Operating systems Windows 7, Windows 10 using either PowerShell or GUI
+DSM and SCCM 2012
+Active Directory from end user device prospective – especially GPO objects for device/user configuration
+Experience in application support or project implementation
+Fluent in written and spoken English
+Knowledge in office infrastructure technologies, state-of-the art office Hardware/Software infrastructure
+Advantages: DMS administration, German language, Lexmark printer manager
+
+Dedication, team and communication skills, flexibility as well as competent handling of MS Office applications round out your profile. There are numerous good reasons to work for us: responsibility at an early stage, attractive social benefits, an international working environment and a broad variety of career opportunities. Applications from disabled persons are welcome.
+Are you interested in working with a pleasant and very dedicated team? Convince us with an appealing application. Please use our online application portal.
+
+
+12
+
+Cloud Engineer (f/m/d) 
+
+ 
+
+Start: 01/07/2020 | Duration: [[cust_duration]] (in months) | Full-time | Prague 
+
+ 
+
+Division
+Deutsche Börse Services sro, CIO / COO (Div), Performance Transformation (Dpt), Cloud (S) 
+
+ 
+
+Division/section
+
+Deutsche Börse AG, CIO/COO, CTO, Cloud Platform Engineering
+
+ 
+
+Field of activity
+
+The Cloud Center of Excellence (CloudCoE) is an integral part of Deutsche Börse’s Digital Transformation. It is responsible for setting up all the necessary cloud infrastructure and organisational requirements to enable all Deutsche Börse Group IT teams to utilize state-of-the-art cloud technologies in a secure and regulatory compliant way.
+
+ 
+
+You will join a fun and diverse team dealing with cutting-edge technologies and initiatives in an international environment. As a “Cloud Engineer” you will be planning, building and operating public cloud infrastructure for Deutsche Börse Group (DBG) IT.  You will be a key part of delivering the Cloud Strategy as outlined by our CIO and our Executive Board.
+
+ 
+
+“It’s not possible” is a sentence, which is not yours, as you will make things possible, accept new challenges, and take over responsibility & commitment for your deliveries.
+
+ 
+
+Tasks/responsibilities
+
+Work in a team of cloud engineers distributed over multiple locations
+Architect and evolve DBG public cloud platforms for Azure, GCP, and AWS
+Monitor cloud platforms from an availability, security and performance aspect
+Supporting your colleagues by taking part in on-call rotation
+Support the different product teams within DBG guiding them in their cloud onboarding efforts
+Share and exchange your knowledge and expertise within DBG
+ 
+Qualifications/desired skills
+
+University degree in Information Technology or comparable professional experience, preferably two years or more
+Understanding of cloud computing concepts with exposure to Azure, GCP and/or AWS
+Knowledge in agile working practices, Infrastructure-as-Code or scripting languages
+Proficiency in written and spoken English is a must
+Extremely curious about modern technology and cloud
+Highly organized, and strong communication capabilities and team orientation
+Independent work method, high commitment to quality, and high self-responsibility & ownership
+ 
+
+There are numerous good reasons to work for us: stable, multi-culture and employee friendly company, an excellent location in Karlin, attractive social benefits such as fully covered sick leave and maternity leave or the broad variety of career opportunities.  
+
+We have non formal culture with flat organizational structure split into product- and service-oriented teams.  Home office, flexible working time and many social events across the year.
+
+11.
+
+Security Operations Centre Team Lead
+Division
+Group Security, CERT, SOC (Unit)
+Field of activity
+With more than 5,000 employees, the company has its headquarters in the financial center of Frankfurt/Germany, as well as a strong global presence in Luxembourg, Prague, Cork, Chicago, and other locations.
+Information Security strives to ensure that information and all supporting processing facilities of Deutsche Börse Group (DBG) are appropriately secured. This way it protects the Group from a significant loss and ensures compliance with legislative, regulatory, and contractual requirements.
+The Security Operations Centre (SOC) is the central organization for all cyber situational analysis (pro-active and detective). The SOC focuses on the IS domain of Information Security Incident Detection and Log Monitoring.
+Hence, we are looking for a self-motivated talented team-lead for our SOC team in Prague, who also acts as local management contact for all other Group Security team members in Prague.
+Tasks / responsibilities
+    • Lead and manage the day-to-day operations of the Security Operations Centre and the SOC analyst team
+    • Ensure the adherence to SOC processes, and compliance to SLA requirements and the DBG Information Security Standard
+    • Monitor the security of DBG applications and underlying infrastructure by monitoring security logs, vulnerabilities and threat intelligence feeds
+    • Manage information security alerts by leading and coordinating investigations with stakeholders
+    • Ensure incidents are detected and reported in a timely manner to the CERT team
+    • Improve the SOC resiliency and processes maturity by supporting regular testing and audit review
+    • Develop and maintain SOC Processes and documentation
+    • Prepare SOC reports and dashboard
+    • Recommend security measures to address cyber threats identified, e.g. proposing SIEM use-cases
+    • Available during the working hours (Mo-Fr) + on call duty
+    • Act as local management representative for other Group Security members
+Qualifications / required skills
+    • University or comparable degree in Computer Science, Information Security, Engineering or related discipline
+    • Previous SOC/CERT team-lead experience
+    • Previous experience in a SOC and/or CERT operation
+    • Expert knowledge of a SIEM or ticket tool is considered a strong benefit
+    • Broad knowledge of IT and Information Security technologies, operating systems, databases and applications
+    • Solid understanding of threats, vulnerabilities, and security controls
+    • Deliverable-oriented, with strong problem-solving skills
+    • Team player willing to cooperate with multiple colleagues across office locations
+    • Good report-writing skills to present the findings of investigations
+Highly desirable:
+    • Security-related certification (CCSP, CISSP, CASP, Security+, GSEC or equivalent).
+    • Very good knowledge of systems & applications security principles and/or best practices
+
+
+Interested?
+We are looking forward to your application.
+
+Internal applications will be treated strictly confidential. Applications from disabled persons are explicitly welcome.
+Interested?
+We are looking forward to your application.
+
+
+
+10
+
+IHS Markit EDM Developer and C# (f/m/d)
+Development | Level 1-3 | Full-time | Permanent | Prague
+Division
+Deutsche Börse Services sro, CIO / COO (Div), Pre and Post trade IT (Dpt), Data IT (S)
+IHS Markit EDM Developer and C#
+Technical platform: Markit EDM v19.1, Microsoft SQL Server 2016 Enterprise, MS Queue, C#, Angular web framework, Windows 2016
+Tasks/Responsibilities:
+The Markit EDM / SQL Server Database Developer will work with a dedicated Prague-based technical and business staff to develop enhancements to the existing STOXX(Qontigo) reference data solution (“CADIS”) and provide 2nd level business as usual (BAU) support as required. Furthermore develop and support C# custom application and provide 2nd level business as usual (BAU) support as required.
+This development would be in an agile-like fashion with several releases each year. Testing of colleagues’ code would be an integral part of the role.
+Qualifications/required skills:
+    • Min. 3-year experience developing T-SQL solutions
+    • Min 3-year experience developing C# and Angular web framework
+    • Detailed knowledge of MS SQL Server ideally at a DBA level for performance tuning
+    • Knowledge of JIRA and GIT
+    • Proven experience working with all aspects of the Systems Development Life Cycle
+    • Financial services experience ideally in Equities, Bonds and/or Indices
+    • Business analysis and/or requirements engineering experience
+    • Fluent English
+    • Team player
+Advantages:
+
+Interested?
+We are looking forward to your application.
+Internal applications will be treated strictly confidential. Applications from disabled persons are explicitly welcome.
+Recruiter: Martin Ryvola
+ 
+9
+
+Senior Functional Analyst (Data, Technology and Finance) / (f/m/d)
+Development | Level 1-3 | Full-time | Permanent | Prague
+Division
+Deutsche Börse Services sro, CIO / COO (Div), Corporate IT (Dpt), Reference Data Services (S)
+Deutsche Börse Group is one of the leading global market infrastructure providers. Our group provides trading, clearing, settlement, market data distribution and other services for a broad range of asset classes (securities, derivatives, FX…).
+At Reference Data Services we focus on collecting, validating, and distributing reference data from internal and external sources required to run our broad business.
+For our Reference Data system, we are looking for a senior functional analyst with diverse range of skills to help us with the further development and meeting our business expectations for one of our critical and core applications.
+At our project you will have the opportunity to touch various stages of development from design to implementation. You would be part of a growing and diverse project team which support and appreciate the added value you will bring to our team.
+Who are you:
+    • Positive with can do attitude
+    • Curios with ability to learn, collaborative working style
+    • Well structured, communicative, flexible, and able to help improve processes and culture
+    • Responsible and enjoy teamwork
+Your tasks and responsibilities:
+    • Be the point of contact for our internal stakeholders across various business locations
+    • Skilled in understanding complex business requirements and translating them into simple and clear tasks
+    • Plans, coordinates, and creates written documentation that clearly describes the needs of the business which includes business requirements, business use cases, user stories, system specifications, and process models
+    • Gather requirements, learn, research, analyse, and propose solutions
+    • Support the release lifecycle as needed, issue resolution, hot fix, resolution for all project incidents
+    • Stay up to date on release plan, new features, provide effort estimates, and delivery plan
+    • Manage individual project priorities and deadlines
+    • Mentor and lead junior FAs and new colleagues in the on boarding process and building skills and talents in the team
+Required skills:
+    • Minimum 5 years experience as a functional analyst in the financial industry
+    • Good understanding of trading and clearing lifecycle, as well of regulatory requirements
+    • Strong knowledge of reference data covering wide range of securities and asset classes
+    • Understanding of market data, prices, volatilities, rates
+    • Experience in an agile environment and the development life cycle, solution design, requirements description, implementation, test
+    • Solid multi-tasking abilities and project management skills
+    • Experience using GitHub, Jira, MS office and tools
+    • Good knowledge of databases and SQL
+    • Very good written and spoken English skills
+Additionally, you need to be a team player with a sense of humor, good communication and collaboration skills, highly motivated, flexible and able to produce light and shine on demand.
+Interested? We would be happy to meet you and discuss what we are working on, and what we can offer you in terms of opportunities, benefits, and career prospects.
+
+Interested?
+We are looking forward to your application.
+Internal applications will be treated strictly confidential. Applications from disabled persons are explicitly welcome.
+Recruiter: Martin Ryvola
+
+8
+
+Head of Unit - IS Governance & Risk (f/m/d)
+Services/Coordination | Level 4 | Full-time | Permanent | Prague
+Division
+Deutsche Börse Services sro, CIO / COO (Div), Group Security / CISO (Dpt), IS Governance & Risk (U)
+Field of activity
+Lead and manage the Information Security Governance & Risk unit.
+Tasks/responsibilities
+    • Functional manager of the IS Governance & Risk unit in different locations (currently Eschborn, Prague and Luxembourg)
+    • Continuous optimization of the implementation of the Information Security Framework at Deutsche Börse Group
+    • Providing the methods and facilitating the Information Owners regarding information classification
+    • Responsibility for the information security risk management for the information processing within Deutsche Börse Group, as well as for insourcings, outsourcings and external service providers
+    • Contact for projects, and support of all Information Owners, Business and IT as well as other stakeholders regarding information security risk management, incl. risk assessment, risk treatment, and risk monitoring and review
+    • Oversight on the threat landscape as well as the legal and regulatory information security requirements, adjustment of internal standards and processes, and participation in relevant internal and external working groups and committees
+    • Responsible for the regular management reporting on information security
+    • Management of information security related audit findings
+    • Cooperation with internal functions like risk management, compliance, data protection, internal audit, and with service providers, as well as contact for external auditors and customer requests regarding information security matters
+Qualifications/required skills
+    • University degree in IT, business informatics, or comparable education
+    • Long-term experience in information security management, ideally in the financial industry or comparable regulated business environment
+    • Distinctive knowledge in operating an ISMS to secure comprehensive business processes and complex IT-applications
+    • Knowledge of general legal and regulatory conditions and requirements in the financial industry, for example ISO 2700x, German BSI IT-Grundschutz, NIST, COBIT
+    • Certifications like CISM, CISA or similar is an advantage
+    • Preferably project management experience
+    • Experience in leading a team
+    • Strong communication and interpersonal skills with aptitude in building relationships with professionals of all organisational levels
+    • Strong analytical skills, reliability, and direct responsibility
+    • Ability to firmly present complex topics in an understandable manner
+    • Proficiency in written and spoken English, German a plus
+Additionally, you need to be a team player with good communication skills, highly motivated, flexible and good at handling MS Office applications.
+
+Interested?
+We are looking forward to your application.
+Internal applications will be treated strictly confidential. Applications from disabled persons are explicitly welcome.
+Recruiter: Mia Margorinova
+ 
+ 
+7
+
+Head of Shared Services Prague / HR Project and People Mgmt (f/m/d)
+Operations | Level 1-3 | Full-time | Prague
+Division
+Clearstream Operations Prague sro, CashMarket,Pre-IPO&GrowthFinancing (Div), Human Resources (A), Global HR B. R. - CEO / CFO/ Cash M. (S)
+Responsibilities
+Shared Services is part of HR Strategy, framework and group services department. Currently the team is mainly responsible for travel expenses for all group Companies and time management for companies located in Germany. This responsibility will be, with your support, continuously grow, as you are to lead other client-oriented projects.
+Together with your experienced team you will drive high value projects on top of day to day team management. The role includes the overall group wide responsibility for the travel expenses management and the related Concur system including its administration. You are also expected to deliver continual improvement and optimization of provided services. You will report to the Head of Department of HR Strategy, framework and group services (based in Frankfurt) as well as to the Executive Managers of COP (for local purposes). You will also strongly interact with other HR managers in Prague, Frankfurt and Luxembourg and with the Group SAP team.
+Main Tasks & Responsibilities
+    • Manage the team (6 employees + 4 students).
+    • Ensure successful roll-out of Concur for newly joined Companies of DBG.
+    • Act as an ambassador of efficient and digital processes across HR in all DBG companies:
+    • Work closely with HR digitalization officer located in Germany.
+    • Take over global ownership of HR administrative processes (time management, personal data changes, benefit payments etc.) and assure global approach toward transformation of these processes while respecting differing local legal needs.
+    • After mapping the processes in individual location with cooperation of local HR colleagues (which have been already identified and have established HR Processes Project team), design a reasonable roadmap of actions and define clear working packages for your team as well for the HR processes project team.
+    • Work together with your team on preparation of business cases for individual working packages resulting from the roadmap to present them to the DBG ExCo.
+    • Work together with your team on implementation of the outcoming implementation projects.
+    • During the implementation of individual digitalization processes, consider further transfer of digitalized processes under HR SSC team.
+What we offer
+    • There are numerous good reasons to work for us: stable, multi-culture and employee friendly company, an excellent location in Karlin, attractive social benefits such as fully covered sick leave and maternity leave or the broad variety of career opportunities.
+    • We have non formal culture with flat organizational structure split into product- and service-oriented teams. Home office, flexible working time and many social events across the year.
+Expected skillset
+    • Management skills and expertise
+    • Process driven with very good analytical skills and structured personality
+    • Good organisational and project management skills
+    • Strong communication skills
+    • Capability to work in a global multi-location HR team
+    • Fluent in written and spoken English, German or French is an advantage
+    • Willingness to learn
+
+Interested?
+We are looking forward to your application.
+Internal applications will be treated strictly confidential. Applications from disabled persons are explicitly welcome.
+Recruiter: Adela Komendova
+ 
+6
+
+Student Master Data Officer (f/m/d)
+Start: 01/04/2019 | Duration: [[cust_duration]] (in months) | Part-time | Prague
+Division
+Clearstream Operations Prague sro, CFO (Div), Financial Accounting & Controlling (A), Finance Operations (S)
+Field of Activity
+Finance Operations is a part of the Financial Accounting & Controlling area of Deutsche Börse Group. The section acts as a service provider for all Deutsche Börse Group companies especially in Germany and Luxembourg and is involved in monthly, quarterly as well as year-end closing.
+In this role you will be responsible for several activities within Deutsche Börse Group customer database in SAP CRM. You will be reporting to the Head of the Master Data Team within the Finance Operations in Prague.
+Main Tasks & Responsibilities
+    • Identification of duplicate customer/vendor entries in SAP CRM and SAP ERP
+    • Verification of data via publicly available sources (commercial registers, VIES, websites) and external providers (Bundesbank, Bisnode)
+    • Creation of new customer entries in SAP CRM
+    • Identification of parent & branch companies
+    • Maintenance of essential Customer Master Data (Identifiers, Sector codes, Shareholders, Board members, Key Financials)
+    • Ad-hoc tasks related to Customer and Vendor Master Data maintenance
+Qualification & Skills
+    • Fluent in written and spoken English; German or French is an advantage
+    • Ability to work independently and as part of a team in an international environment
+    • Good analytical skills, accuracy and technical affinity
+    • Strong communication skills
+    • Studies of Economics is an advantage
+    • Experience with SAP and/or Master Data is an advantage
+Other information
+    • Working Hours: up to 20hrs per week, ideally between 08:00 and 18:00
+    • Working Days: from 2 days up to 5 days per week
+    • Working on Public Holidays: none
+
+Interested?
+We are looking forward to your application.
+Internal applications will be treated strictly confidential. Applications from disabled persons are explicitly welcome.
+Recruiter: Adela Komendova
+ 
+5
+
+Back Office Administrator - Corporate Office / maternity cover (f/m/d)
+- | Level 1-3 | Full-time | Limited | Prague
+Division
+Deutsche Börse Services sro, CIO / COO (Div), Gov. & General Manager Prague (Dpt.), General Management Prague (U)
+The Corporate Office of Deutsche Boerse Services s.r.o. (DBSS) covers the business responsibilities of the General Management of DBSS. It takes care for Finance & Accounting, the HR position plan, supplier relations, contract management and travel organization. It manages the companies’ policy & procedure framework and the interface to all relevant central functions and Business & IT areas within Deutsche Boerse Group.
+Tasks / Responsibilities:
+    • Deal with travelling expenses; administration work related
+    • Consulting and supporting management, HR, staff and external providers with planning and organisation;
+    • Act as contact person for problem solving with effective complaint and claims processing
+    • Possibility to take a part in Event Management
+    • Contribute to team effort by accomplishing related results as needed
+    • Handle sensitive information in a confidential manner
+Required Skills:
+    • Enthusiasm to learn new skills and ability to grasp large amounts of product information;
+    • Daily communication in English
+    • Detail oriented and used to work with time-frames and under pressure;
+    • Ability to accurately input data and maintain attention to detail;
+    • Strong service oriented mind-set;
+    • Culturally open-minded;
+
+Interested?
+We are looking forward to your application.
+Internal applications will be treated strictly confidential. Applications from disabled persons are explicitly welcome.
+Recruiter: Mia Margorinova
+ 
+4
+
+Big Data Infrastructure Engineer (m/f/d)
+Development | Level 4 | Full-time | Permanent | Prague
+Division
+Deutsche Börse Services sro, CIO / COO (Div), Performance Transformation (Dpt), Big Data & Analytics (S)
+Field of activity
+The section Big Data & Advanced Analytics provides infrastructure and services to enable the development of data science, analytics and big data solutions by the businesses across the value chain served by Deutsche Börse Group. As a Big Data Infrastructure Engineer you will join our team of big data experts and support us in developing and building the data science and big data infrastructure for the group. You will be covering topics ranging from defining the overall big data architecture to supporting the implementation of specific business use cases in the big data and data science fields.
+Tasks/responsibilities
+    • Build and support large scale big data processing and analytics infrastructure
+    • Continuously evaluate new technology developments for use in Deutsche Börse Group
+    • Application integration and deployment in accordance with company security standards and guidelines
+    • Specify and implement production environment infrastructure and services
+    • Deploy and maintain continuous integration practice, CI/CD and release management
+    • Gather data requirements from analytics and business departments
+    • Catalogue, connect and on-board new data sources
+    • Write and maintain operational and technical documentation
+Qualifications/ required skills
+    • University degree in computer science, software engineering, informatics or similar qualifications
+    • >3 years work experience specifically with focus on building big data infrastructure
+    • Shell scripting experience in Linux/windows and familiarity with network topology
+    • Competent with open-source technology, software development and engineering
+    • Command and understanding of wide range of big data technologies and database architecture especially with newer technologies (Hadoop, Spark, NoSQL, etc.)
+    • Experience in containerization, Kubernetes, and OpenShift
+    • Awareness of agile methodology (Kanban, Scrum) and tooling (Jira)
+    • Strong team player willing to cooperate with multiple colleagues across office locations and functions
+    • Openness for new ideas, approaches and technologies
+    • Hands-on pragmatic attitude with a passion for getting things done
+    • Very strong English language skills are a must
+
+Interested?
+We are looking forward to your application.
+Internal applications will be treated strictly confidential. Applications from disabled persons are explicitly welcome.
+Recruiter: Martin Ryvola
+ 
+3
+
+Head of Unit ETD Clearing AD Prague (f/m/d)
+Development | Level 4 | Full-time | Permanent | Prague
+Division
+Deutsche Börse Services sro, CIO / COO (Div), Clearing and Risk IT (Dpt), ETD Clearing Implementation (S)
+Division/Section
+Deutsche Börse Group, CIO / COO (Div), Clearing and Risk IT (Dpt), ETD Clearing Implementation (S)
+Field of activity
+Application development and maintenance for the Collateral Management Component of Eurex Clearing C7, in an environment that is regulated under various financial authorities.
+Tasks/responsibilities
+    • Coordinate and drive the development for the Eurex Clearing C7 Collateral Management
+    • Organize the project deliveries and maintenance for the Collateral Management Component
+    • Plan and coordinate call support activities
+    • Support issue resolution for production issues
+    • Manage, support and develop the team
+    • Liaising with interface partners located in Prague and Frankfurt and may be other locations
+
+Qualifications/required skills
+    • University degree in informatics, mathematics, natural sciences, economy or comparable qualification
+    • Good Java or Python knowledge
+    • Experience in development of applications using Agile development methods
+    • Proficiency in written and spoken English
+
+Additionally, you need to be a team player with good communication skills, highly motivated, flexible and good at handling MS Office applications.
+Location: Prague
+Interested?
+Please fill and return the signed application form to the Recruitment Team. Internal applications are treated in strict confidence.
+Applications from disabled persons are welcome.
+
+Interested?
+We are looking forward to your application.
+Internal applications will be treated strictly confidential. Applications from disabled persons are explicitly welcome.
+Recruiter: Mia Margorinova
+ 
+2
+
+Head of Section - IT Risk Management (f/m/d)
+Development | Level 5 | Full-time | Permanent | Prague
+Division
+Deutsche Börse Services sro, CIO / COO (Div), Clearing and Risk IT (Dpt), Risk IT (S)
+Field of activity
+IT Risk Management acts as Single Point of Contact (SPOC) for IT Risk related topics in the area responsibility of the CIO/COO. This includes definition and implementation of IT Risk management processes in legal entities.
+Tasks/responsibilities
+    • Manage directly several team members, contributors and/or a complex team (e.g. experts, multicultural, multi-country, multidisciplinary resources)
+    • Be a role model as people leader – significant portion of your time will be to develop individuals within your organization and build a high performing team
+    • Defining, building up and maintaining IT Risk Management processes
+    • Cooperation and building an interface (SPOC) Risk management function and IT teams within the legal entities
+    • Support and coaching for the employees and management in the division CIO/COO with IT Risk management-related matters
+    • Stakeholder Management, e.g. presenting status to executive boards and business owners, as well as moderation of meetings on contract governance
+Qualifications/required skills
+    • Master’s degree in management or a relevant comparable qualification, e.g. within IT
+    • Minimum 3 years working experience within an IT company, in IT Consulting or Financial Service Provider
+    • Experience in people leadership, including inter-cultural competence, multi-location (Germany, Luxembourg, Prague)
+    • Ability to make informed decisions and take responsibility for actions
+    • Profound know how in legal and regulatory conditions and requirements in the financial industry, for example MaRisk, BAIT, CSSF Circulars
+    • Experience in process orientation; knowledge of Risk methods and procedures
+    • Profound know how in IT frameworks and Standards, e.g. COBIT, ISO Standards
+    • Proficiency with MS Office Applications
+    • Experience in process orientation; knowledge of IT service methods and procedures
+    • Excellent analytical skills and experience to understand, structure and prepare/explain complex topics
+    • Advanced project management experience
+    • Proficiency in written and spoken English, at least basic knowledge of German
+    • Team orientation and strong communication skills.
+
+Interested?
+We are looking forward to your application.
+Internal applications will be treated strictly confidential. Applications from disabled persons are explicitly welcome.
+Recruiter: Mia Margorinova
+ 
+1
+
+Senior HR Specialist (m/f/d)
+Operations | Level 1-3 | Full-time | Prague
+Division
+Clearstream Operations Prague sro, CashMarket,Pre-IPO&GrowthFinancing (Div), Human Resources (A), Global HR B. R. - CEO / CFO/ Cash M. (S)
+Field of activity
+Our HR team is responsible for over 1000 finance & IT collegues located in Prague. We cooperate closely with HQ in Frankfurt as well as with other locations, such as Luxemburg, Cork or Singapore. Employing people of 40 different nationalities, we enjoy focusing on diversity support and open-communication culture. As our future colleague you will be responsible for overall employee support, data management as well as for various independent projects under your own responsibility.
+Your futher responsibilities
+    • Projects: mostly related to digitalization, process automation and employee care (f.e. SAP SF Employee Central, e-Tax tool)
+    • Processes: from optimalization to daily executions, f.e. employee satisfaction tool, performance appraisal, yearly compensation review and many others
+    • Data Management: employee data entry and maintanance in SAP, data analysis and reports
+    • Innovations: bringing your ideas on board and make them go live
+    • In case of interest you are welcomed to participate in recruitment, onboarding, HR marketing and many other areas
+Expected skillset
+    • Relevant professional experience
+    • In-depth knowledge of Czech labor law
+    • Structured and process oriented personality
+    • Very good English knowledge
+    • SAP knowledge and German language skills would be an asset
+
+What we offer
+
+There are numerous good reasons to work for us: stable, multi-culture and employee friendly company, an excellent location in Karlin, attractive social benefits such as fully covered sick leave and maternity leave or the broad variety of career opportunities.
+
+We have non formal culture with flat organizational structure split into product- and service-oriented teams. Home office, flexible working time and many social events across the year.
+Are you interested in working with a pleasant and very dedicated team? Convince us with an appealing application.
+
+

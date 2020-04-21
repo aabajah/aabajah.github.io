@@ -1,0 +1,133 @@
+14.
+
+Security Operations Dept Analyst	****POSTED
+
+Field of activity
+
+<p>With over five thousand employees, the company has its headquarters in the financial center of Germany, as well as a strong global presence in Luxembourg, Prague, Ireland, USA, and other locations.
+Information Security strives to ensure that information and all supporting processing facilities of our company Group are appropriately secured. This way it protects the Group from a significant loss and ensures compliance with legislative, regulatory, and contractual requirements. </p>
+
+<p>The CERT/SOD is the central organization for all cyber situational analysis (pro-active, detective and forensic). The SOD focuses on the IS domain of Information Security Incident Detection and Log Monitoring.
+Hence, we are looking for a self-motivated talented Analyst for our SOD team in Prague.</p>
+
+ 
+
+Tasks/responsibilities
+
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Manage information security alerts by leading and coordinating investigations with stakeholders</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Early notification to management of incidents followed by the creation of investigation reports</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Recommend security measures to address cyber threats identified, e.g. proposing SIEM use-cases</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Communicate zero-day threats and vulnerabilities to the relevant IT teams for prompt action e.g. patching</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Help to improve the SOD resiliency and processes maturity by supporting regular testing and audit review</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Develop and maintain SOD documentation</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Available during the working hours (Mo-Fr) + on call duty</span></li>
+ 
+
+Qualifications/required skills
+
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>University or comparable degree in Computer Science, Information Security, Engineering or related discipline</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>IT experience with 1+ years in an information security role</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Previous experience in a SOD or CERT team or operation of a SIEM or ticket tool is considered a strong benefit</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Broad knowledge of IT and Information Security technologies, operating systems, databases and applications</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Solid understanding of threats, vulnerabilities, and security controls</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Deliverable-oriented, with strong problem-solving skills </span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Team player willing to cooperate with multiple colleagues across office locations</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Good report-writing skills to present the findings of investigations</span></li>
+ 
+
+
+11.  POSTED
+
+Security Operations Dept Team Lead
+Division
+Group Security, CERT, SOD (Unit)
+Field of activity
+With more than 5,000 employees, the company has its headquarters in the financial center of Frankfurt/Germany, as well as a strong global presence in Luxembourg, Prague, Cork, Chicago, and other locations.
+Information Security strives to ensure that information and all supporting processing facilities of our company Group (our company) are appropriately secured. This way it protects the Group from a significant loss and ensures compliance with legislative, regulatory, and contractual requirements.
+The Security Operations Dept (SOD) is the central organization for all cyber situational analysis (pro-active and detective). The SOD focuses on the IS domain of Information Security Incident Detection and Log Monitoring.
+Hence, we are looking for a self-motivated talented team-lead for our SOD team in Prague, who also acts as local management contact for all other Group Security team members in Prague.
+Tasks / responsibilities
+    • Lead and manage the day-to-day operations of the Security Operations Dept and the SOD analyst team
+    • Ensure the adherence to SOD processes, and compliance to SLA requirements and the our company Information Security Standard
+    • Monitor the security of our company applications and underlying infrastructure by monitoring security logs, vulnerabilities and threat intelligence feeds
+    • Manage information security alerts by leading and coordinating investigations with stakeholders
+    • Ensure incidents are detected and reported in a timely manner to the CERT team
+    • Improve the SOD resiliency and processes maturity by supporting regular testing and audit review
+    • Develop and maintain SOD Processes and documentation
+    • Prepare SOD reports and dashboard
+    • Recommend security measures to address cyber threats identified, e.g. proposing SIEM use-cases
+    • Available during the working hours (Mo-Fr) + on call duty
+    • Act as local management representative for other Group Security members
+Qualifications / required skills
+    • University or comparable degree in Computer Science, Information Security, Engineering or related discipline
+    • Previous SOD/CERT team-lead experience
+    • Previous experience in a SOD and/or CERT operation
+    • Expert knowledge of a SIEM or ticket tool is considered a strong benefit
+    • Broad knowledge of IT and Information Security technologies, operating systems, databases and applications
+    • Solid understanding of threats, vulnerabilities, and security controls
+    • Deliverable-oriented, with strong problem-solving skills
+    • Team player willing to cooperate with multiple colleagues across office locations
+    • Good report-writing skills to present the findings of investigations
+Highly desirable:
+    • Security-related certification (CCSP, CISSP, CASP, Security+, GSEC or equivalent).
+    • Very good knowledge of systems & applications security principles and/or best practices
+
+
+Interested?
+We are looking forward to your application.
+
+Internal applications will be treated strictly confidential. Applications from disabled persons are explicitly welcome.
+Interested?
+We are looking forward to your application.
+
+
+13
+
+Senior Windows Desktop Engineer
+
+ 
+Field of activity
+
+As a Senior Windows Desktop Engineer you will provide support to IT Windows based applications and devices within the company environment and work within a highly motivated team across three locations
+
+ 
+
+Tasks/responsibilities
+
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>You will support the Microsoft based Digital Workplace clients</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>You will create and maintain Windows 10 and Windows 7 images using SCCM or DSM</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>You will create SCCM packages for software deployment and update rollout for approx. 6000 devices</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>You will test new devices, phones and printers for group wide deployment</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>You will implement, integrate and support third party software, i.e. based on Microsoft technologies, as well as internally developed applications</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>You will analyse problems, resolve issues and will perform monitoring, tuning and optimisation of performance of software for the global operation of the Digital Workplace</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>You will work on new projects and document implemented solutions to further modernize the Digital Workplace</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Escalate issues to management based on evaluated and discussed options</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Installation, Maintaining and Supporting of Microsoft Windows Clients and applications</span></li>
+ 
+Qualifications/required skills
+
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Successfully completed a degree in IT or training in the same field with relevant work experience</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Experience in administration of Microsoft Windows Operating systems Windows 7, Windows 10 using either PowerShell or GUI</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>DSM and SCCM 2012</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Active Directory from end user device prospective – especially GPO objects for device/user configuration
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Experience in application support or project implementation</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Fluent in written and spoken English</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Knowledge in office infrastructure technologies, state-of-the art office Hardware/Software infrastructure</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Advantages: DMS administration, German language, Lexmark printer manager</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>Dedication, team and communication skills, flexibility as well as competent handling of MS Office applications round out your profile. </span></li>
+
+Some reasons to work for us:
+
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>attractive social benefits</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>international working environment</span></li>
+<li class="d-flex align-items-start mb-2"><span class="icon-check_circle mr-2 text-muted"></span><span>broad variety of career opportunities. </span></li>
+
+
+
+
+
+
+
+
+
+
